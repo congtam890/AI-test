@@ -1,0 +1,8 @@
+1. Rule used : R1. Result : Rule antisedent not match facts.
+2. Rule used : R2. Result : Rule antisedent not match facts.
+3. Rule used : R3. Result : Rule antisedent not match facts.
+4. Rule used : R4. Result : Rule return new facts : D
+5. Rule used : R1. Result : Rule return new facts : Z
+--------------------End--------------------
+Rules path : R4 -> R1
+Success
